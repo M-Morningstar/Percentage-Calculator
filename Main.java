@@ -3,7 +3,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-public class Tutorial{
+public class Main{
        public static void main(String[] args)
        {
     	String[] choices = {"a) To find what is ....% of .....", "b) To find .... is what percent of ...."};
